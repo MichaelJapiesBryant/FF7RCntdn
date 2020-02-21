@@ -1,0 +1,27 @@
+{
+    "name": "time-until-FF7R",
+    "version": "0.0.1",
+    "description": "A twitter bot that counts down until the Final Fantasy 7 Remake",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "twit": "^2.1.0",
+      "express": "^4.14.0",
+      "moment": "^2.24.0"
+    },
+    "engines": {
+      "node": "8.x"
+    },
+    "repository": {
+      "url": ""
+    },
+    "keywords": [
+      "node",
+      "twitter",
+      "twitterbot",
+      "bot"
+    ]
+  }
+  
